@@ -7,5 +7,4 @@ Pokédex app with all pokemons by type and number.
 ![home_pokedex](https://user-images.githubusercontent.com/54691110/181288051-ebb32c7d-dc00-4c14-ae46-036f0b394dbd.png)
 ![busca_pokedex](https://user-images.githubusercontent.com/54691110/181288045-3ce74380-b00a-4719-b27e-b5fad9eedf08.png)
 
-## **About**
-Build using Flutter with clean architecture and bloc/cubit.
+
