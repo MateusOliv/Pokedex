@@ -1,4 +1,4 @@
-# 🌟**Pokedex**🌟
+# 🌟**Pokédex**🌟
 #### pt-br
 Pokedex app with all pokemons by type and number.
 
